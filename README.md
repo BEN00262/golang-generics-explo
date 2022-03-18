@@ -1,0 +1,1 @@
+## A look into [golang generics](https://go.dev/doc/tutorial/generics) introduced in golang version 1.18
